@@ -35,7 +35,6 @@ StyleHub’s net profit margin is 12%, with profitability impacted by high disco
 ###
 ![Sales Dashboard](Product_Sales_Performance_Dashboard.jpg)
 1️⃣ **Seasonal Demand & Revenue Volatility**
-
 Sales and profit follow clear seasonal demand patterns, driving periodic peaks and dips in performance. This indicates strong reliance on cyclical buying behavior, highlighting opportunities for demand smoothing and strategic campaign timing during low-performing periods.
 
 2️⃣ **Strong Pricing Power & Margin Stability**
